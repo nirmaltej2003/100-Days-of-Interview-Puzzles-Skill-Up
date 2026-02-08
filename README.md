@@ -8,3 +8,4 @@ Puzzle 1 : Measure 4 litre with 3 and 5 litre bottle
 ----------------------------------------------------------
 Puzzle 2 : Find the ages of daughters
 ----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-08%20061744.png)
