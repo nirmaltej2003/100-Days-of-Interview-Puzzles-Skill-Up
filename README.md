@@ -14,7 +14,7 @@ Puzzle 2 : Find the ages of daughters
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-08%20061744.png)
 
 ----------------------------------------------------------
-Puzzle 3 : Find the ages of daughters
+Puzzle 3 : Total distance travelled by bee
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-09%20080917.png)
-![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-09%20080974.png)
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-09%20080957.png)
