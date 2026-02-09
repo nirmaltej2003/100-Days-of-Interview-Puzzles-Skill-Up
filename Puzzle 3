@@ -29,17 +29,3 @@ Therefore, the total distance travelled by bee
 = 80 * 100/(50+70) 
 = 66.67 km (approx)
 
-Another Solution:
-
-Another easier approach to solve this can be by using the concept of relative velocity:
-
-With respect to Train A, train B's velocity is (70+50) = 120 km/hr. Thus, the time taken by Train B to collide with Train A will be
-
- (100 km) / (120 km/hr)  = 5/6 hr = 50 min
- Now, since the velocity of the bee is 80 km/hr, the distance travelled by the bee in this time interval will be
-
- 80 km/hr * 5/6 hr = 66.67 km (approx)
-
-Point to Note:
-
-The key point to note in this puzzle is that the bee will keep travelling from one train to another as it's speed is greater than both the train's speed. Thus we only need to find the time it takes for both the trains to collide and this time will be same as the time bee is flying and thus it has nothing to do with the point at which the trains collide. 
