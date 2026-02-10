@@ -21,11 +21,6 @@ Puzzle 3 : Total distance travelled by bee
 ----------------------------------------------------------
 Puzzle 4 : Torch and Bridge
 ----------------------------------------------------------
-**Step 1:**
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-10%20071827.png)
-
-**Step 2:**
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-10%20071846.png)
-
-**Step 3:**
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-10%20071910.png)
