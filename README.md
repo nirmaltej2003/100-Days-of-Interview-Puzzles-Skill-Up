@@ -26,6 +26,6 @@ Puzzle 4 : Torch and Bridge
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-10%20071910.png)
 
 ----------------------------------------------------------
-Puzzle 5 : Torch and Bridge
+Puzzle 5 : Bag of Coins
 ----------------------------------------------------------
-![image]()
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-11%20071703.png)
