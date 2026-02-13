@@ -35,3 +35,8 @@ Puzzle 6 : Snail and Wall
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-12%20054431.png)
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-12%20054454.png)
+
+----------------------------------------------------------
+Puzzle 7 : Pay an employee using a gold rod of 7 units 
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-13%20212832.png)
