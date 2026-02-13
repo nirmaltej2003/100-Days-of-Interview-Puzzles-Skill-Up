@@ -1,0 +1,36 @@
+Puzzle 
+
+Pay an employee using a gold rod of 7 units ?
+
+An employee works for an employer for 7 days. The employer has a gold rod of 7 units length. How does the employer pay the employee, so that the number of employees’ rod units increases by one at the end of each day? The employer can make at most 2 cuts in the rod. 
+
+Solution:
+
+The employer can pay the employee for seven days by making two cuts, resulting in three rods of lengths 1, 2, and 4 units.
+
+Day 1: The employer gives the 1-unit rod to the employee.
+Day 2: The employer takes back the 1-unit rod and gives the 2-unit rod instead.
+Day 3: The employer gives back the 1-unit rod. Now the employee has rods of 1 and 2 units (totaling 3 units).
+Day 4: The employer takes back both the 1-unit and 2-unit rods and gives the 4-unit rod.
+Day 5: The employer gives the 1-unit rod again. The employee now has 4 + 1 = 5 units.
+Day 6: The employer takes back the 1-unit rod and gives the 2-unit rod. The employee now has 4 + 2 = 6 units.
+Day 7: The employer gives the 1-unit rod again. The employee now has 4 + 2 + 1 = 7 units.
+How does this work?
+We use powers of 2, the same idea as decimal to binary conversion. These allows us to express any number from 1 to 7 via binary:
+
+Notice that 7 = 2³ - 1. This means, with three pieces (after two cuts), we can represent any number from 1 to 7 by combining the lengths 1, 2, and 4 — which are powers of 2:
+
+2⁰ = 1
+2¹ = 2
+2² = 4
+This is just like binary numbers, where we can express any number using combinations of powers of 2. With 3 such pieces, we can form all sums from 1 to 7:
+
+1
+2
+1 + 2 = 3
+4
+4 + 1 = 5
+4 + 2 = 6
+4 + 2 + 1 = 7
+So each day, the employee gets a total of rods that sum up to the day's number — by giving, taking back, or combining the existing pieces. This clever method ensures daily payment without needing more than 2 cuts
+
