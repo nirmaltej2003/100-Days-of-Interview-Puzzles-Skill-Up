@@ -40,3 +40,12 @@ Puzzle 6 : Snail and Wall
 Puzzle 7 : Pay an employee using a gold rod of 7 units 
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-13%20212832.png)
+
+----------------------------------------------------------
+Puzzle 8 : Pay an employee using a gold rod of 7 units 
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-15%20230507.png)
+
+----------------------------------------------------------
+Puzzle 9: Identical bottles of pills
+----------------------------------------------------------
