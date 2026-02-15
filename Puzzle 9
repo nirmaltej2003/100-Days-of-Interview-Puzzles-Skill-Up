@@ -1,0 +1,19 @@
+Puzzle 
+
+Identical bottles of pills
+
+Given 10 identical bottles of identical pills (each bottle contains 100 pills). Out of 10 bottles, 9 have 1 gram of pills, but 1 bottle has pills of the weight of 1.1 grams. Given a measurement scale, how would you find the heavy bottle? You can use the scale only once. 
+
+Solution: 
+
+Step 1: Arrange the bottles on the shelf and now take, 1 pill from the first bottle, 2 pills from the second bottle, 3 pills from the third bottle, and so on.
+
+Step 2: In total, you'll be taking 1 + 2 + 3 + ... + 10 pills. This is a mathematical sequence that adds up to 55 pills (10 x 11 / 2) or normally if you'll add up you'll get 55 Pills.
+
+Step 3: If the weight reads exactly 55 grams, congratulations! All the bottles have pills of the correct weight. But If the weight is more than 55 grams, the difference indicates the bottle with the heavier pills.
+
+For example, if the weight shows 55.1 grams, the extra 0.1 gram comes from the first bottle (since you took 1 pill from it).
+
+Similarly, if the weight shows 55.2 grams, the second bottle has the heavier pills (because you took 2 pills from it).
+Likewise if the weight shows 55.6 grams, the 6th bottle has the heavier pills (Since you too 6 pills from bottle 6) and so on.
+ 
