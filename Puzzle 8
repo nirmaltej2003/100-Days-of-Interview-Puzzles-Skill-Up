@@ -1,1 +1,30 @@
+Puzzle 
 
+50 red marbles and 50 blue marbles
+
+
+There are two boxes, B1 and B2. One of the boxes contains 50 red marbles, and the other contains 50 blue marbles. You are allowed to redistribute the marbles between the two boxes in any way you like, without changing the total number of red and blue marbles (i.e., 50 red and 50 blue marbles in total).
+
+A box is then selected at random, and from the chosen box, one marble is selected at random.
+
+Solution:
+
+
+Let P(R) be the probability of picking a red marble.
+
+P(R) = P(B1) * P(B1 | J1) + P(B2) * P(B2 | J2) 
+Let P(B1) and P(B2) represent the probabilities of selecting Box B1 and Box B2, respectively. Since the selection of a box is random and equally likely, we have:
+
+P(B1)=P(B2)=1/2
+
+Let J1 and J2 denote the total number of marbles in Box B1 and Box B2, respectively, after redistribution of the marbles.
+
+If we do not reshuffle any balls. Then,
+
+ P(R) = ((1 / 2) * 1) + ((1 / 2) * 0) = 0.5
+But, if we decrease the number of red balls in box B1 and increase the number of red balls in box B2, then the probability of getting a red ball will be maximized. Therefore, let us take 49 red marbles from B1 to B2, then there will be 1 red ball in B1 and 99 balls in B2, out of which 49 are red and 50 of them are blue in the second jar. Then
+
+P (R) = ((1 / 2) * (1 / 1)) + ((1 / 2) * (49 / 99)) = 0.747474
+Hence,
+
+the maximum probability of choosing a red ball is 0.747474 
