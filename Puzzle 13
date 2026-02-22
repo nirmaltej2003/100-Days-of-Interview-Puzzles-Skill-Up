@@ -1,1 +1,30 @@
+Puzzle 
 
+A Man with Medical Condition and 2 Pills
+
+A man has a medical condition that requires him to take two kinds of pills, call them A and B.
+
+The man must take exactly one A pill and exactly one B pill each day, or he will die.
+The pills are taken by first dissolving them in water. 
+The man has a jar of A pills and a jar of B pills.
+One day, as he is about to take his pills, he takes out one A pill from the A jar and puts it in a glass of water. Then he accidentally takes out two B pills from the B jar and puts them in the water. Now, he is in the situation of having a glass of water with three dissolved pills, one A pill and two B pills.
+
+Unfortunately, the pills are very expensive, so the thought of throwing out the water with the 3 pills and starting over is out of the question. How should the man proceed in order to get the right quantity of A and B while not wasting any pills? 
+
+Solution: Follow this step-wise approach to help the man take his medicine in the correct way.  
+
+Step 1: Add one more A pill to the glass and let it dissolve.
+Step 2: Take half of the water today and half tomorrow.
+It works under the following assumptions.  
+
+The dissolved Pills can be used the next day.
+The man has to take pills at least for one more day.
+The pills are uniformly dissolved in water
+Alternate Solution:
+
+The person should add pill A to the glass of water.
+Now, the person can boil the solution in a jar and the water will get evaporated. Thus, the residue of the medicine will be left.
+Now he can take half of the residue, which will be equivalent to a single day dosage (1 Pill A + 1 Pill B) and take the rest tomorrow.
+It works under the following assumptions:
+
+The medicine does not evaporate with the water.
