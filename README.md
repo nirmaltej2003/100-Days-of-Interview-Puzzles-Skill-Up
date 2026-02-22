@@ -65,4 +65,27 @@ Puzzle 11: Chain Link Puzzle
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
 
+----------------------------------------------------------
+Puzzle 12: 
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
 
+----------------------------------------------------------
+Puzzle 13: 
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
+
+----------------------------------------------------------
+Puzzle 14: 
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
+
+----------------------------------------------------------
+Puzzle 15: 
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
+
+----------------------------------------------------------
+Puzzle 16: 
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
