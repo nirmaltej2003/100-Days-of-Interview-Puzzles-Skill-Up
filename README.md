@@ -66,26 +66,27 @@ Puzzle 11: Chain Link Puzzle
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
 
 ----------------------------------------------------------
-Puzzle 12: 
+Puzzle 12: Pizza
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
 
 ----------------------------------------------------------
-Puzzle 13: 
+Puzzle 13: A Man with Medical Condition and 2 Pills
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
 
 ----------------------------------------------------------
-Puzzle 14: 
+Puzzle 14: Strategy for a 2 Player Coin Game
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
 
 ----------------------------------------------------------
-Puzzle 15: 
+Puzzle 15: Measuring 45 Minutes with Two Burning Wires
 ----------------------------------------------------------
-![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20124911.png)
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20124933.png)
 
 ----------------------------------------------------------
-Puzzle 16: 
+Puzzle 16: Camel and Banana Puzzle
 ----------------------------------------------------------
-![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20125106.png)
