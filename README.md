@@ -73,12 +73,12 @@ Puzzle 12: Pizza
 ----------------------------------------------------------
 Puzzle 13: A Man with Medical Condition and 2 Pills
 ----------------------------------------------------------
-![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20124045.png)
 
 ----------------------------------------------------------
 Puzzle 14: Strategy for a 2 Player Coin Game
 ----------------------------------------------------------
-![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20124235.png)
 
 ----------------------------------------------------------
 Puzzle 15: Measuring 45 Minutes with Two Burning Wires
