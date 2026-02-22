@@ -50,3 +50,8 @@ Puzzle 8 : 50 red marbles and 50 blue marbles
 Puzzle 9: Identical bottles of pills
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-15%20230704.png)
+
+----------------------------------------------------------
+Puzzle 10: Identical bottles of pills
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20122337.png)
