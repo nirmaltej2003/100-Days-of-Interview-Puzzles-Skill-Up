@@ -1,0 +1,63 @@
+Puzzle 
+
+Camel and Banana Puzzle
+
+A person has 3000 bananas and a camel. The person wants to transport the maximum number of bananas to a destination that is 1000 km away, using only the camel as a mode of transportation. The camel cannot carry more than 1000 bananas at a time and eats a banana every km it travels. What is the maximum number of bananas that can be transferred to the destination using only a camel (no other mode of transportation is allowed)?
+
+Things to note:
+
+Bananas available: 3000
+Distance to destination: 1000 KM
+Camel's capacity: 1000 bananas at a time
+Camel eats: 1 banana per kilometer
+The goal is to find the maximum number of bananas that can be transferred to the destination.
+Key Insights:
+
+The camel will need to make multiple trips because it can only carry 1000 bananas at a time.
+The camel consumes bananas during each trip, so you need to minimize waste by strategically using intermediate drop points where bananas can be stored.
+You need to calculate how many trips the camel will make and how many bananas it will consume at each stage.
+
+Approach:
+
+Step 1: From Source to Intermediate Point 1 (IP1)
+
+Initially, we have 3000 bananas.
+The camel needs to carry 3000 bananas but can only take 1000 at a time. It will need to make multiple trips (both forward and backward) to transport bananas to the first intermediate point.
+For every trip forward, the camel eats 1 banana per kilometer.
+The camel needs to make 5 trips between the source and IP1:
+3 trips forward (to carry the bananas) and 2 trips backward (to pick up more bananas).
+For every kilometer covered, the camel consumes:
+5 bananas per kilometer
+So, for the first intermediate point at distance 𝑥 from the source:
+The number of bananas left at IP1: 3000−5x
+To maximize bananas at the intermediate point, let’s set the number of bananas left at IP1 to 2000 (as the camel cannot make more than 5 trips with the available bananas).
+
+This gives us: 3000−5x = 2000 ⟹ x = 200 KM
+
+Step 2: From Intermediate Point 1 (IP1) to Intermediate Point 2 (IP2)
+
+Now, 2000 bananas are at IP1, and the camel needs to transport them further.
+Here, the camel will make 3 trips (2 forward trips and 1 backward trip) between IP1 and IP2.
+For every kilometer covered between IP1 and IP2, the camel consumes:
+3 bananas per kilometer
+So, for the second intermediate point at distance y from IP1:
+The number of bananas left at IP2: 2000−3y
+To maximize bananas at IP2, we set this value to 1000.
+This gives us:
+
+2000 − 3y = 1000 ⟹ y = 333.33 ≈ 333 KM
+
+Step 3: From Intermediate Point 2 (IP2) to Destination
+
+Now, the camel has 1001 bananas left at IP2, but it can only carry 1000 at a time.
+So, it will leave 1 banana behind and proceed with 1000 bananas.
+The camel will travel the remaining distance z, which is: z = 1000 − (200 + 333) = 467 KM
+During this trip, the camel will consume 467 bananas, leaving:
+1000 − 467 = 533 bananas
+
+Final Answer:
+
+The maximum number of bananas that can be transferred to the destination is 533.
+
+This solution shows that through the use of two drop points and managing the number of trips carefully, the camel can transport a maximum of 533 bananas over the 1000 KM distance.
+
