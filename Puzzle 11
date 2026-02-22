@@ -1,1 +1,25 @@
+Puzzle 
+
+Chain Link Puzzle
+
+You have 5 separate chain segments, each made up of 3 links.
+
+Breaking open a link costs $1.
+Closing (welding) an open link costs $3.
+You may only connect segments by breaking and welding links.
+Connect all 5 segments into one long continuous open chain (ends remain free, not joined into a loop) while spending less than $15.
+
+What is the minimum cost to connect all segments into a single open-ended chain?
+
+Solution: 
+
+chain_link
+Let us name the chains as  1, 2, 3, 4, 5, each having three links.
+
+Take chain 1 and break open all three links: 1 x 3 = $3. 
+Take one open link to connect chain 2 and 3: $3. 
+Take another open link to connect chain 3 and 4: $3. 
+Take the third open link to connect chain 4 and 5: $3. 
+
+⁛ Now you have one long chain ready in only $12.
 
