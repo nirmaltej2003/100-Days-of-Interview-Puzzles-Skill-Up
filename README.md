@@ -62,4 +62,4 @@ Puzzle 10: Hourglasses Puzzle
 ----------------------------------------------------------
 Puzzle 11: Chain Link Puzzle
 ----------------------------------------------------------
-![image](
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20123507.png)
