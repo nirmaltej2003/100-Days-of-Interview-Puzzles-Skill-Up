@@ -1,0 +1,22 @@
+Puzzle 
+
+100 Doors
+
+There are 100 doors in a row, and all doors are initially closed. A person walks through all doors multiple times and toggles (if open, then close; if closed, then open)
+
+In the first walk, the person toggles (or opens) every door.
+In the second walk, toggles (or closes) every second door (i.e., 2nd, 4th, 6th, 8th, and so on).
+In the third walk, toggles every third door (i.e., 3rd, 6th, 9th, etc.).
+This pattern continues, and in the 100th walk, the person toggles only the 100th door.
+
+Solution: 
+
+A door is toggled in the i-th walk if i divides the door number, for example: Door number 45 is toggled during the 1st, 3rd, 5th, 9th, 15th, and 45th walks.
+Each door is toggled once for every divisor of its number, and divisors typically come in pairs (e.g., for 45: (1,45), (3,15), (5,9)).
+Each pair of divisors cancels out the toggle effect (open - close or close -open), therefore, doors with an even number of divisors return to their initial closed state.
+Perfect square numbers (e.g., 16) have one unpaired divisor (like 4 in 4×4), resulting in an odd number of divisors.
+An odd number of toggles leaves the door in the open position; hence, only perfect square-numbered doors (e.g., 1, 4, 9, 16, ..., 100) remain open.
+Prime numbers (e.g., 2, 3, 5, 7) have exactly two divisors (1 and itself), which is a pair - the door remains closed.
+Non-square composite numbers (e.g., 15) have divisor pairs, so they are also closed at the end.
+
+⁛So the answer is 1, 4, 9, 16, 25, 36, 49, 64, 81 and 100. 
