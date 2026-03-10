@@ -95,6 +95,11 @@ Puzzle 16: Camel and Banana Puzzle
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20125106.png)
 
 ----------------------------------------------------------
+Puzzle 19: Guess Color of Hat
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-10%20223527.png)
+
+----------------------------------------------------------
 Puzzle 21: 100 Doors
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-10%20222432.png)
