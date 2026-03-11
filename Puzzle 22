@@ -1,0 +1,59 @@
+Puzzle 
+
+Measure 4L using given 3 buckets
+
+
+Suppose you have 8L, 5L, and a 3L bucket with you. The buckets have no measurement lines on them, and you are asked to measure exactly 4L of water using the three buckets. How could you measure exactly 4L of water using only those buckets, and provided you have as much extra water as you need? 
+
+Solution:
+
+1.1 When we are allowed to throw water out of the bucket. 
+
+Step 1: Fill the 8L bucket full. 
+
+Step 2: Pour the water from 8L bucket to 3L bucket. Water in 8L bucket is now 5L. Empty 3L bucket. 
+
+Step 3: Pour the remaining water from 8L bucket to 3L bucket. Water in 8L bucket is now 2L. Empty 3L bucket. 
+
+Step 4: Pour the remaining 2L water from 8L bucket to 5L bucket. 8L bucket and 3L bucket are now empty and 5L bucket has 2L of water in it. 
+
+Repeat Step 1 to 4 again and we will have 4L of water in 5L bucket. 
+
+1.2 When we are allowed to throw water out of bucket. 
+
+Step 1: Fill the 5L bucket full. 
+
+Step 2: Pour the water from 5L bucket to 3L bucket. Water in 5L bucket is now 2L. Empty 3L bucket. 
+
+Step 3: Pour the remaining water from 5L bucket to 8L bucket. Water in 8L bucket is now 2L. 
+
+Repeat Step 1 to 3 again and we will have 4L of water in 8L bucket. 
+
+2.1 When we are not allowed to throw water out of bucket. 
+
+Step 1: First fill the 8L bucket full. 
+
+Step 2: Pour the water from 8L bucket to 5L bucket. Water remaining in 8L bucket is 3L. 
+
+Step 3: Pour the water from 5L bucket to 3L bucket. Water remaining in 5L bucket is 2L. 
+
+Step 4: Pour the water from 3L bucket to 8L bucket. Water in 8L bucket is 6L now and 3L bucket gets empty. 
+
+Step 5: Pour the water from 5L bucket to 3L bucket. Water in 3L bucket is 2L now and 5L bucket gets empty. 
+
+Step 6: Pour the water from 8L bucket to 5L bucket. Water remaining in 8L bucket is 1L 5L bucket gets full. 
+
+Step 7: Pour the water from 5L bucket to 3L bucket. Water remaining in 5L bucket is now 4L as 3L bucket already had 2L of water and when we poured water from 5l bucket to 3L bucket we poured 1L of water from 5L bucket and thus the remaining water in 5L bucket is now 4L. 
+
+2.2 When we are not allowed to throw water out of bucket. 
+
+Step 1: Fill the 5L bucket full. 
+
+Step 2: Pour the water from 5L bucket to 3L bucket. Water in 5L bucket is now 2L.
+
+Step 3: Pour the remaining water from 5L bucket to 8L bucket. Water in 8L bucket is now 2L. 
+
+Step 4: Transfer 3L bucket water to 5L bucket and fill the 5L bucket full. 
+
+Repeat Steps 2 and 3 and the 8L bucket will now contain 4L of water.
+Thus, we measured the 4L of water using the given three buckets.  
