@@ -1,1 +1,34 @@
+A very hungry worm reaches a tree and eats the leaves in the following sequence:
+
+DAY 1: The worm eats 1 leaf
+DAY 2: TWICE( DAY 1)= 2 leaves
+DAY 3: TWICE( DAY 2)= 4 leaves
+DAY 4: TWICE( DAY 3)= 8 leaves 
+and so on.....(up to 30 days)
+
+The above eating sequence continues for 30 days, and all the leaves finish on the 30th day. On which day did the worm finish exactly half of the total number of leaves?
+
+
+
+Solution:
+
+Note: If the answer is 29, then please try again. 
+
+In order to make the calculations simpler, let's consider the total time duration as 4 days instead of 30 days.
+
+DAY 1: 1 leaf
+DAY 2: 2 leaves
+DAY 3: 4 leaves
+DAY 4: 8 leaves 
+All the leaves are finished on the 4th day. Therefore, the total number of leaves is (1 + 2 + 4 + 8 = 15).
+
+Half of the total number of leaves on the tree is (15/2 = 7.5).
+
+At the end of day 3, the worm can finish a total of 7 leaves.
+
+Therefore, exactly half of the total number of leaves on the tree can be finished only on day 4, i.e., the last day.
+
+Therefore, in the given riddle, where total time duration is 30 days.
+
+The worm finishes exactly half of the total number of leaves on Day 30, i.e., the last day.
 
