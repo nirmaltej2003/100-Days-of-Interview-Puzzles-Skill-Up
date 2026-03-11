@@ -96,6 +96,11 @@ Puzzle 16: Camel and Banana Puzzle
 
 
 ----------------------------------------------------------
+Puzzle 17: Monty Hall problem
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-11%20221556.png)
+
+----------------------------------------------------------
 Puzzle 18: Hungry Worm and Old Tree Riddle
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-11%20220302.png)
