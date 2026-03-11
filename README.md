@@ -103,3 +103,8 @@ Puzzle 19: Guess Color of Hat
 Puzzle 21: 100 Doors
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-10%20222432.png)
+
+----------------------------------------------------------
+Puzzle 22: Measure 4L using given 3 buckets
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-11%20213530.png)
