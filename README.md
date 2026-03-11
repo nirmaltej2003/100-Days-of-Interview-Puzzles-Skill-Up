@@ -94,6 +94,12 @@ Puzzle 16: Camel and Banana Puzzle
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-02-22%20125106.png)
 
+
+----------------------------------------------------------
+Puzzle 18: Hungry Worm and Old Tree Riddle
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-11%20220302.png)
+
 ----------------------------------------------------------
 Puzzle 19: Guess Color of Hat
 ----------------------------------------------------------
