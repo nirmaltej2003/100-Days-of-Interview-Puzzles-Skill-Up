@@ -123,4 +123,8 @@ Puzzle 22: Measure 4L using given 3 buckets
 ----------------------------------------------------------
 Puzzle 23: The Fake Note Puzzle
 ----------------------------------------------------------
-![image](
+
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-12%20205051.png)
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-12%20205108.png)
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-12%20205131.png)
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-12%20205151.png)
