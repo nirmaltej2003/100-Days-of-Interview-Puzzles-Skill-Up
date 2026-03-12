@@ -1,0 +1,28 @@
+Puzzle 
+
+The Fake Note Puzzle
+
+
+A lady purchases goods worth Rs. 200 from a shop.
+
+The lady pays with a Rs. 1000 note.
+Since the shopkeeper doesn’t have change, he goes to a neighbouring shop, exchanges the Rs. 1000 note for smaller denominations, and returns to give the lady Rs. 800 in change, keeping Rs. 200 as payment for the goods.
+Later, the neighbouring shopkeeper returns, informing that the Rs. 1000 note is fake and demands his money back.
+How much Loss did the shopkeeper face assuming that the shopkeeper sells the goods at no profit ?
+
+Solution:
+
+Loss of the shopkeeper = What shopkeeper gave to others - What shopkeeper took
+
+Step 1: The shopkeeper has Rs. 200 worth of goods and Rs. 1000 in original currency; the lady enters with Rs. 1000 in fake currency, and the shopkeeper gives her Rs. 1000 in change taken from the neighbour.
+
+Step 2: At this point, the shopkeeper is holding Rs. 1000 in counterfeit notes and Rs. 1000 in original currency. The lady has taken goods worth Rs. 200, and the neighbor has Rs. 1000, which was given to her as change.
+
+Step 3: At this stage, the shopkeeper has Rs. 1000 in change and Rs. 1000 in original currency. The lady has received goods worth Rs. 200, while the neighbor is left with the Rs. 1000 in fake currency.
+
+Step 4: The shopkeeper is left with Rs. 200 worth of goods lost and Rs. 1000 in original currency. The lady now has goods worth Rs. 200 along with Rs. 800 in cash, and the neighbor still holds the Rs. 1000 in fake currency.
+
+Step 5: The shopkeeper is left with a loss of Rs. 200 and is holding Rs. 1000 in fake currency. The lady has goods worth Rs. 200 and Rs. 800 in cash, while the neighbor possesses Rs. 1000 in original currency.
+
+By, Comparing Step 1 and Step 5, we see that the lady successfully exchanged her fake Rs. 1000 currency for goods and cash totaling Rs. 1000 in value. As a result, the shopkeeper ended up trading his original Rs. 1000 currency for counterfeit money. Therefore, the shopkeeper incurs a total loss of Rs. 1000. 
+
