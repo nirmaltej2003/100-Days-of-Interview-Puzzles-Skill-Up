@@ -119,3 +119,8 @@ Puzzle 21: 100 Doors
 Puzzle 22: Measure 4L using given 3 buckets
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-11%20213530.png)
+
+----------------------------------------------------------
+Puzzle 23: The Fake Note Puzzle
+----------------------------------------------------------
+![image](
