@@ -132,3 +132,8 @@ Puzzle 23: The Fake Note Puzzle
 Puzzle 24: Find the Initial Money
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-12%20212808.png)
+
+----------------------------------------------------------
+Puzzle 26: Find the Jar with Contaminated Pills
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-13%20204425.png)
