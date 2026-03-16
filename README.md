@@ -147,3 +147,7 @@ Puzzle 27: Birthday Paradox
 Puzzle 28: 3 Bulbs and 3 Switches
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-16%20205231.png)
+----------------------------------------------------------
+Puzzle 29: Blind man and Pills
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-16%20211235.png)
