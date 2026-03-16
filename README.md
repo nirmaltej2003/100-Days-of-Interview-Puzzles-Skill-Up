@@ -142,3 +142,8 @@ Puzzle 26: Find the Jar with Contaminated Pills
 Puzzle 27: Birthday Paradox
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-16%20204457.png)
+
+----------------------------------------------------------
+Puzzle 28: 3 Bulbs and 3 Switches
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-16%20205231.png)
