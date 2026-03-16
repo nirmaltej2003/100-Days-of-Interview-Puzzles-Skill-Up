@@ -1,0 +1,28 @@
+Puzzle 
+
+Measuring 6L water from 4L and 9L buckets
+
+Suppose you have a 4-litre jug and a 9-litre bucket, both without any measurement markings. How can you measure exactly 6 litres using only these two containers and an unlimited supply of water?
+
+Solution:
+
+Consider two containers: a 4-litre jug and a 9-litre bucket, and use them to measure exactly 6 litres of water with an unlimited water supply.
+
+Step 1: Fill the 9-litre bucket completely.
+
+Step 2: Pour water from the 9-litre bucket into the 4-litre jug until it is full.
+
+Step 3: Empty the 4-litre jug.
+
+Step 4: Pour water from the 9-litre bucket into the 4-litre jug again until it is full.
+
+Step 5: Empty the 4-liter jug.
+
+Step 6: Pour the remaining 1 liter from the 9-liter bucket into the 4-liter jug.
+
+Step 7: Refill the 9-liter bucket completely.
+
+Step 8: Pour water from the 9-liter bucket into the 4-liter jug until it is full (it will take 3 liters).
+
+Step 9: You are now left with exactly 6- liters in the 9-liter bucket.
+
