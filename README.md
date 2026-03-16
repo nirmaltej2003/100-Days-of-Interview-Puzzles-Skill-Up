@@ -137,3 +137,8 @@ Puzzle 24: Find the Initial Money
 Puzzle 26: Find the Jar with Contaminated Pills
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-13%20204425.png)
+
+----------------------------------------------------------
+Puzzle 27: Birthday Paradox
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-16%20204457.png)
