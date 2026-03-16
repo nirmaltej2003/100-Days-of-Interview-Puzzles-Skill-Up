@@ -1,0 +1,28 @@
+Puzzle 
+
+Birthday Paradox
+
+On a New Year's day, two old friends (A and B) meet at a party. As they met after a long time, person B wanted person A to guess his birthday. As both friends have not been in touch for a long time, person A was unable to guess his birthday. So person B decided to give some hints. Below are the hints:
+
+The day before yesterday I was 25 and next year I will be 28, then person B asked person A to find his birthday. 
+The above condition can be true for only one day in the year.
+
+Solution:
+
+Person B's birthday is on December 31.
+
+Explanation:
+
+Person A met his old friend on New Year's, which is on January 1. So, the day before yesterday was December 30 at that time, person B was 25 years old, and on the present Day(January 1), B is 26 years old. This year, on December 31, person B will be 27; his age will be 28.
+
+Date
+
+Age
+
+December 30 -	25 years old
+December 31 -	26 years old
+January 1   - (This year)	26 years old
+December 31 - (This year)	27 years old
+December 31 - (Next year)	28 years old
+Therefore, Person B's birthday is on December 31.
+
