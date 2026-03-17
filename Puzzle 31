@@ -1,0 +1,39 @@
+Puzzle 
+
+3 Priests and 3 devils Puzzle
+
+Six people — 3 Priests and 3 Devils — need to cross a river using a boat that holds at most two people.
+
+Rules:
+
+At any time (on either riverbank or in the boat), if the number of Devils exceeds the number of Priests, the Devils will eat the Priests (i.e., that situation is forbidden).
+The boat requires at least one person to move (it cannot move empty).
+You may make as many crossings as needed, but must always avoid forbidden states.
+Get all 6 people safely to the other side of the river without ever allowing the Devils to outnumber the Priests on either bank.
+
+Solution:
+
+To safely get all 3 priests and 3 devils to the other side of the river without ever leaving more devils than priests on either side, follow these 6 steps:
+
+The boat can carry only two people at a time. At no point should devils outnumber priests on either riverbank.
+
+Step 1: One priest and one devil cross the river.
+
+The devil stays, and the priest returns with the boat.
+Step 2: Two devils cross the river.
+
+One devil stays, and the other returns with the boat.
+Now, 2 devils are on the far side; 3 priests and 1 devil are on the starting side.
+Step 3: Two priests cross the river.
+
+One priest stays, and the other returns with 1 devil.
+Step 4: The remaining two priests cross the river.
+
+Now, 3 priests and 1 devil are on the far side; 2 devils are on the starting side.
+One devil returns with the boat.
+Step 5: Two devils cross the river.
+
+One devil stays, and the other returns with the boat.
+Step 6: The last two devils cross together.
+
+All 3 priests and 3 devils are now safely on the far side.
