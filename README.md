@@ -161,3 +161,8 @@ Puzzle 30: Measuring 6L water from 4L and 9L buckets
 Puzzle 31: 3 Priests and 3 devils Puzzle
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-17%20200111.png)
+
+----------------------------------------------------------
+Puzzle 32: Heaven and Hell
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-17%20200814.png)
