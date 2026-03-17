@@ -1,0 +1,36 @@
+Puzzle 
+
+Heaven and Hell
+
+You are standing in front of two gates: 1) One gate leads to Heaven. 2) The other gate leads to Hell.
+
+There are two gatekeepers:
+
+One always tells the truth.
+The other always lies.
+You don’t know which gatekeeper guards which gate.
+What single question should you ask to guarantee finding the gate to Heaven?
+
+Rules:
+
+You may ask only one question to either one of the gatekeepers.
+Based on the answer, you must determine which gate leads to Heaven.
+
+
+Solution: If I were to ask the other gatekeeper which gate leads to heaven, what would they say?
+
+Here's how it works:
+
+1. If you ask the truthful gatekeeper:
+
+They will truthfully tell you what the lying gatekeeper would say.
+The lying gatekeeper would point to Hell (because they always lie).
+So the truthful one says: "They would say that gate leads to Heaven" (but it’s actually Hell).
+
+2. If you ask the lying gatekeeper:
+
+They will lie about what the truthful gatekeeper would say.
+The truthful gatekeeper would point to Heaven.
+But the liar will lie, and say the truthful one would point to Hell.
+In both scenarios, regardless of who you ask, you'll receive the same answer: the gate to hell. Hence, it would be best if you chose the other gate, which is the gate to heaven.
+
