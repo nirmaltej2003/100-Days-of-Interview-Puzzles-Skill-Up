@@ -156,3 +156,8 @@ Puzzle 29: Blind man and Pills
 Puzzle 30: Measuring 6L water from 4L and 9L buckets
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-16%20212038.png)
+
+----------------------------------------------------------
+Puzzle 31: 3 Priests and 3 devils Puzzle
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-17%20200111.png)
