@@ -1,0 +1,24 @@
+Puzzle 
+
+Rat and Poisonous Milk Bottles
+
+You are given 4 bottles of milk.
+
+Exactly 1 bottle is poisonous.
+The other 3 bottles are safe.
+You also have a rat that:
+
+Dies exactly 10 hours after drinking from the poisonous bottle.
+Additionally, you have a clock that measures time only in whole hours.
+
+Suggest an optimal strategy to identify the poisoned bottle within 24 hours.
+
+Solution:
+
+At the beginning of the first hour, feed the rat from the 1st bottle. At the start of the second hour, feed it from the 2nd bottle, and at the beginning of the third hour, feed it from the 3rd bottle.
+Now observe when the rat dies:
+
+If it dies exactly 10 hours after the first feeding, the 1st bottle is poisonous.
+If it dies 11 hours after the first feeding, the 2nd bottle is poisonous.
+If it dies 12 hours after the first feeding, the 3rd bottle is poisonous.
+If it survives beyond 12 hours, the 4th bottle is poisonous.
