@@ -1,0 +1,54 @@
+Puzzle 
+
+Minimum cut Puzzle
+
+You hire a worker for 5 days and agree to pay them 1 unit of gold at the end of each day. However, you only have a single 5-unit gold bar.
+
+The conditions are:
+
+The worker must be paid exactly 1 unit per day.
+You are allowed to cut the gold bar into pieces.
+After cutting, you can use those pieces to make exact payments each day.
+What is the minimum number of cuts required to split the gold bar so that you can pay the worker correctly for all 5 days?
+
+Answer: 2 cuts
+
+Solution: 
+
+Start with a 5-unit gold bar.
+Cut 1: Make the first cut at the 1-unit mark- gives 1 unit and 4 units remaining.
+Cut 2: Cut the 4-unit piece in half, giving two 2-unit pieces.
+Final pieces: 1 unit, 2 units, 2 units
+what_s_the_minimum_number_of_cuts_needed_to_pay_exactly_2
+It can also be explained using the table below:
+
+Days	Worker Gets	Vendor Takes Back	
+Worker Holds
+
+Explanation
+Day 0	-	-	
+[]
+
+No Payment yet.
+Day 1	[+1]	-	
+[1]
+
+Pay the worker Gold Bar with 1 unit.
+Day 2	[+2]	[-1]	
+[2]
+
+Pay the worker Gold with 2 units and take back the gold bar with 1 unit.
+Day 3	[+1]	-	
+[1,2]
+
+Pay the worker Gold Bar with 1 unit.
+Day 4	[+2]	[-1]	
+[2,2]
+
+Pay the worker Gold with 2 units and take back the gold bar with 1 unit.
+Day 5	[+1]	-	
+[1,2,2]
+
+Pay the worker with only left Gold Bar with 1 unit.
+Therefore, by making just 2 cuts, you obtain 1-unit, 2-unit, and 2-unit gold pieces, which allow you to pay exactly 1 unit per day over 5 days through a combination of giving and taking back pieces.
+
