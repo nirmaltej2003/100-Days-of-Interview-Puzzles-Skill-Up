@@ -166,3 +166,12 @@ Puzzle 31: 3 Priests and 3 devils Puzzle
 Puzzle 32: Heaven and Hell
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-17%20200814.png)
+
+----------------------------------------------------------
+Puzzle 33: Minimum cut Puzzle
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-19%20061731.png)
+
+----------------------------------------------------------
+Puzzle 35: Rat and Poisonous Milk Bottles
+----------------------------------------------------------
