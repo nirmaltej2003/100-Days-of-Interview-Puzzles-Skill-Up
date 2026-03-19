@@ -175,3 +175,4 @@ Puzzle 33: Minimum cut Puzzle
 ----------------------------------------------------------
 Puzzle 35: Rat and Poisonous Milk Bottles
 ----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-19%20062634.png)
