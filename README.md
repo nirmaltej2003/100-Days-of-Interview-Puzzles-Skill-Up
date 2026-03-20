@@ -185,3 +185,4 @@ Puzzle 36: The Boy Preference Ratio Riddle
 ----------------------------------------------------------
 Puzzle 37: Neighbors in a round table
 ----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-20%20104921.png)
