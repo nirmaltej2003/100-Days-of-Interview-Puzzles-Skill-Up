@@ -1,0 +1,33 @@
+Puzzle 
+
+The Boy Preference Ratio Riddle
+
+
+In a country, every family continues to have children until they have a boy, after which they stop having more children. Assuming the probability of having a boy or a girl is equal (50%), what is the expected ratio of boys to girls in the overall population?
+
+Solution:
+
+Assumptions: Each child born has an equal probability of being a boy or a girl (i.e., 50%). The gender of each child is independent of the previous births. To solve the problem, we calculate the expected number of girls born before a boy appears in each family.
+
+
+Let NG be the expected no. of girls before a boy is born
+
+Let p be the probability that a child is girl and (1-p)
+be probability that a child is boy.
+
+NG can be written as sum of following infinite series.
+
+NG = 0*(1-p) + 1*p*(1-p) + 2*p*p*(1-p) + 3*p*p*p*(1-p) + 4*p*p*p*p*(1-p) +.....
+
+Putting p = 1/2 in above formula.
+
+NG = ( 1-1/2) .1/2(1-1/2)2 = 1/2. 1/2/ ( 1/2)2= 1/2. 1/2/ 1/4= 1/2.2= 1
+
+NG = 1
+So,
+
+Expected number of boys per family = 1
+Expected number of girls per family = 1
+Therefore, in the whole country:
+⁛ Ratio of boys to girls=1/1​=1:1​
+
