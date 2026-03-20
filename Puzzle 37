@@ -1,0 +1,21 @@
+Puzzle 
+
+Newspaper folded in half
+
+A newspaper is made of 16 large sheets of paper folded in half, giving a total of 64 pages.
+
+The first sheet contains pages 1, 2, 63, and 64.
+Each sheet always has 4 pages (2 on the front, 2 on the back).
+If we pick up the sheet that contains page number 45, what are the other three pages on the same sheet?
+
+Solution :
+
+On the back of 45, it is 46.
+The pages are such that for each page p, 65-p will also be on the same page.
+
+Then,
+65-45 = 20.
+65-46 = 19.
+
+So, the four pages in this sheet are 19, 20, 45, 46.
+
