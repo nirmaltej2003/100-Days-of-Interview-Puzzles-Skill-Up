@@ -1,0 +1,24 @@
+Puzzle 
+
+Prisoner and Policeman Puzzle
+
+The policeman decided to punish the Prisoner and asked him to make a statement. The Prisoner should make such a statement so that he would be alive.
+
+If the statement is held true by the Policeman, the Prisoner will be hanged to death, and
+If the statement is held false, the Prisoner will be shot dead.  
+
+
+Solution:
+
+The prisoner said, "I will be shot dead."
+
+Now consider the two possible scenarios the Policeman has to decide:
+
+If the statement is declared true, then according to the rules, the prisoner should be shot. But that would make the statement true, and the rule says he must be hanged for telling the truth—a contradiction.
+If the statement is declared false, then the prisoner should be hanged (as per the rule for false statements). But if he's hanged, then his statement "I will be shot" was indeed false, which would make the punishment correct. But now the statement being false results in the correct punishment, which loops back consistently, but leads to a contradiction with the rule that the punishment must reflect the truth value.
+However, here is the real crux:
+No matter what the Policeman decides, it leads to a logical paradox:
+
+If the statement is true, the prisoner should be hanged (for truth), but that contradicts the content of the statement.
+If the statement is false, the prisoner should be shot (for falsehood), but then the statement becomes true.
+This self-referential paradox means the statement cannot be consistently classified as either true or false under the rules provided.
