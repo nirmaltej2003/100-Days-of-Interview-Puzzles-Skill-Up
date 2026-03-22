@@ -191,3 +191,8 @@ Puzzle 37: Neighbors in a round table
 Puzzle 38: Newspaper folded in half
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-20%20105534.png)
+
+----------------------------------------------------------
+Puzzle 39: Prisoner and Policeman Puzzle
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-22%20114314.png)
