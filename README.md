@@ -196,3 +196,8 @@ Puzzle 38: Newspaper folded in half
 Puzzle 39: Prisoner and Policeman Puzzle
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-22%20114314.png)
+
+----------------------------------------------------------
+Puzzle 44: Man fell in well
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-23%20205113.png)
