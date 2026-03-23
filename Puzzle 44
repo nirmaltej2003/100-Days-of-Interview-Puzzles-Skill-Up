@@ -1,0 +1,12 @@
+Puzzle 
+
+Man fell in well
+
+A man fell into a 50m deep well. He climbs 4 meters up and slips 3 meters down in one day. How many days would it take for him to come out of the well?
+
+Solution:
+
+On the first day, the man climbs 4 meters up and slips 3 meters down; therefore, he only climbs 1 meter up total.
+On the second day, again he climbs 1 meter up, so the total distance climbed is 2 meters till the second day. Therefore, the man climbs 1 meter every day.
+Now, as per the above pattern, on the 46th day, he must have climbed 46 meters. So on the 47th day, he climbs full (46 + 4) 50 meters, and after that, he will not slip as he is already out of the well, so the answer is 47 days.
+
