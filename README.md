@@ -201,3 +201,7 @@ Puzzle 39: Prisoner and Policeman Puzzle
 Puzzle 44: Man fell in well
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-23%20205113.png)
+----------------------------------------------------------
+Puzzle 73: Six Matches
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-24%20215535.png)
