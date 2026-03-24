@@ -1,0 +1,14 @@
+Puzzle 
+
+Six Matches
+
+Given six matchsticks. The task is that you have to rearrange them to make nothing.
+
+Solution:
+
+Approach 1: The puzzle is to make something from the 6 matches which represents nothing. We have to arrange the 6 matches in some particular order like the mention below: 
+
+Approach 2 : 0 indicates nothing.
+
+
+
