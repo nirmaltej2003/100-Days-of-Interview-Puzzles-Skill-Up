@@ -205,3 +205,8 @@ Puzzle 44: Man fell in well
 Puzzle 73: Six Matches
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-24%20215535.png)
+
+----------------------------------------------------------
+Puzzle 100: Number of legs in palace
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-04-05%20114038.png)
