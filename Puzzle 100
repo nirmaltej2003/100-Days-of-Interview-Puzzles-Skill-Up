@@ -1,0 +1,54 @@
+Puzzle 
+
+Number of legs in palace
+
+Imagine you are standing inside a grand palace where 5 guards are on duty. Each guard is responsible for watching 5 large rooms. In every single one of these rooms, there are 5 adult tigers, and each adult tiger has 5 cubs.
+Can you figure out how many legs are inside the palace?
+
+Explanation :
+
+Step 1: Calculate the Total Number of Tigers
+
+First, we need to figure out exactly how many tigers are in the palace.
+
+Total number of rooms: There are 5 guards, and each is in charge of 5 rooms.
+
+5 guards × 5 rooms  =  25 total rooms
+
+Total number of adult tigers: Each of the 25 rooms has 5 adult tigers.
+
+25 rooms × 5 adult tigers = 125 adult tigers
+
+Total number of tiger cubs: Each of the 125 adult tigers has 5 cubs.
+
+125 adult tigers × 5 cubs = 625 tiger cubs
+
+Add them all up:
+
+125 adult tigers + 625 cubs = 750 total tigers
+
+Now that we know the total number of tigers, we can find the number of tiger legs. Since each tiger has 4 legs:
+
+750 tigers × 4 legs = 3000 tiger legs
+
+Step 2: Calculate the Total Number of Humans
+
+The Guards: There are 5 guards, and each has 2 legs.
+
+5 guards × 2 legs = 10 guard legs
+
+You: The puzzle states you are in the palace, so you have to count your own 2 legs.
+
+2 of your legs 
+
+Add the human legs together :
+
+10 guard legs + 2 of  your legs = 12 human legs
+
+Step 3: Find the Grand Total
+
+Finally, we just add the tiger legs and the human legs together to get the final answer.
+
+3000 tiger legs + 12 human legs = 3012 total legs.
+
+So, the total number of legs in the palace is 3,012.
