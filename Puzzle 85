@@ -1,0 +1,26 @@
+Puzzle 
+
+Circle Division by Six Straight Lines
+
+Given a Circle and Six Straight Lines. What is the maximum number of pieces that one can cut the circle using these six straight lines?
+
+Solution: 
+
+Using six lines, we can cut the circle into 22 pieces at maximum.
+
+Using one line, the circle can be divided into two parts.
+
+Two lines divide the circle into four parts.
+
+Three lines divide the circle into seven unequal parts.
+
+Four lines cut the circle into eleven parts.
+
+Using five lines, circle can be divided into sixteen parts.
+
+Finally, using six lines the maximum parts that can be formed are 22.
+We can find out the number of pieces using a mathematical formula also:
+
+Number of pieces = 1 + (n*(n+1)/2)
+
+
