@@ -205,7 +205,7 @@ Puzzle 44: Man fell in well
 ----------------------------------------------------------
 Puzzle 64: Octopus Empire
 ----------------------------------------------------------
-![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-24%20215535.png)
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-09-22%20123428.png)
 ----------------------------------------------------------
 Puzzle 73: Six Matches
 ----------------------------------------------------------
