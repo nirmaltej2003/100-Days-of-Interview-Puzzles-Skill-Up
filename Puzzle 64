@@ -1,0 +1,24 @@
+Puzzle | Octopus Empire
+
+There was an empire where lived a King Octopus with his few servants. The servants either had 6, 7, or 8 legs. It is known that:
+
+ Seven-legged servants always lied. 
+ 6 and 8-legged servants always told the truth. 
+
+One fine day, four servants gathered before the king, and they came up with four statements: 
+
+Servant A said, “Altogether, we have 28 legs.” 
+Servant B said, “Altogether, we have 27 legs.” 
+Servant C said, “Altogether, we have 26 legs.” 
+Servant D said, “Altogether, we have 25 legs.” 
+How will King Octopus find the truthful speaker?
+
+Solution: 
+
+As we can see that the four are making different statements and since one of them speaks the truth, three are undoubtedly lying. This forms the base of our argument. 
+
+Step 1: So, the three lying servants must have seven legs each, resulting in 21(i.e., 7 + 7 + 7) legs. 
+
+Step 2: Now, the fourth servant speaking the truth must have 6 or 8 legs. Adding 21 to 6 gives 27 legs. Adding 21 to 8 gives 29 legs. 
+
+Step 3: Since 29 legs are out of the options, hence it is proved that the 27 legs are the correct answer and Servant B is the truthful one.
