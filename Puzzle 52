@@ -1,0 +1,28 @@
+Puzzle | Matchstick
+
+How to make 4 equilateral triangles with 6 identical matchsticks? 
+
+Solution:
+
+Method I: A tetrahedron has:
+
+4 equilateral triangle faces
+6 edges
+4 vertices
+Each edge of the tetrahedron can be formed with one matchstick.
+So, arrange the 6 matchsticks to form a tetrahedron:
+Take 3 matchsticks. Arrange them to form an equilateral triangle. This will be the base.
+Take the remaining 3 matchsticks. Connect each vertex of the base triangle to a single common point above the base. This point is the apex.
+Position the apex so that each of these three edges has the same length as the matchsticks forming the base.
+The result is a tetrahedron, with 4 equilateral triangular faces and 6 equal edges.
+
+Method II:
+
+Use 3 matchsticks to make a large equilateral triangle (each matchstick forms one side).
+Now take 3 more matchsticks and connect the midpoints of the triangle’s sides.
+These 3 inner matchsticks form a smaller inverted triangle inside the larger one.
+
+ Method III:
+
+4 equilateral triangles labeled 1, 2, 3, and 4
+Arranged in a bowtie/hourglass shape
