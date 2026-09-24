@@ -1,0 +1,35 @@
+Puzzle | Ways to Reach Bottom Right in 6x6 
+
+You begin in the top left corner of a 6x6 grid, and your objective is to move to the bottom right corner. There are just two directions you can move: right or down. Both diagonal and backward movements are prohibited.
+
+How many different ways are there to get from the start to the finish?
+
+Solution: 
+
+We can solve this problem using two approaches:
+
+Approach 1 - Using Combinatorics:
+
+-The number of paths from the starting point (left) to the ending point (right) does not depend on the specific path taken.
+-It depends only on the number of rows and columns used to reach the end.
+-In such problems, you have a fixed number of steps (rows and columns) to take, regardless of order.
+-This situation can be solved using mathematics — specifically, combinatorics.
+-Combinatorics helps count the number of possible ways to arrange or choose these steps.
+
+Why combinatorics?
+
+In this case of a 6×6 grid, all the paths must consist of a total of 10 moves, 5 down and 5 right, our job is to select the 5 right moves from the collection of 10 moves.
+we must employ a certain number of rows and columns (5 of the total 10 blocks) to travel from the left beginning to the right end.
+if we choose 5 rows box then the answer is 10c5=252 and the same if we choose 5 column answer is 10c5=252.
+Hence, combinatorics helps count the total possible paths without listing each one.
+
+Approach 2 - Using Pascal Triangle:
+
+If we know the number of ways to reach the left box and an upper box of a given box, then, the number of ways to reach at the given box, we can easily visualize, it will be the sum of both because we can either reach here from the left box paths or upper box paths.
+
+As shown in the figure here, we can reach the left box in A ways and reach the upper blocks in B ways, so the total answer to reach will be A+B. 
+
+-Here, for the first row, they can only be taken from the left move, not from the upward move.
+-So the answer is 1 for the first row and similarly, for the first column they can be only taken from the upward move, not from the left move.
+-The answer here is also 1, and for the remaining grid, it is calculated using the Pascal Approach which is explained before.
+-To reach the right endpoint, we have taken the sum of (126+126), which are moves at its top and left. 
