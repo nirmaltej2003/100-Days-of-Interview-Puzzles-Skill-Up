@@ -211,6 +211,12 @@ Puzzle 52: Matchstick
 Puzzle 64: Octopus Empire
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-09-22%20123428.png)
+
+----------------------------------------------------------
+Puzzle 67: Ways to Reach Bottom Right in 6x6
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-09-24%20110335.png)
+
 ----------------------------------------------------------
 Puzzle 73: Six Matches
 ----------------------------------------------------------
