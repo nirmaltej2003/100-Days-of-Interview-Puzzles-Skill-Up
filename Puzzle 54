@@ -1,0 +1,38 @@
+Puzzle | Muddy Heads
+
+
+A mother tells her two children, a boy and a girl, to play without getting dirty. However, while playing, both children get mud on their foreheads.
+The mother says “At least one of you has a muddy forehead”. She then asks the children to answer “Yes” or “No” to the question: “Do you know whether you have a muddy forehead?”
+
+The mother asks this question twice to each kid.
+What will the children answer each time this question is asked, assuming that a child can see whether his/her sibling has a muddy forehead, but cannot see his or her own forehead? Assume that both children are honest and that the children answer each question simultaneously.
+
+Solution:
+
+Let s = "son has a muddy forehead"
+Let d = "daughter has a muddy forehead"
+The mother says, “At least one of you has a muddy forehead.” → This means s or d is true
+1. First Round of Questioning:
+
+Both children answer “No” to the question: “Do you know if you have mud on your forehead?”
+
+Each child sees the other as having mud:
+
+Son sees mud on daughter’s forehead → he knows d is true, but is unsure about s
+Daughter sees mud on son’s forehead → she knows s is true, but is unsure about d
+2. Second Round of Reasoning:
+
+After hearing the son say “No”, the daughter reasons:
+
+The son saw mud on her face (so he knows d is true)
+He also knows s or d is true (from the mother’s statement)
+If d were false, then s must be true → and the son would know he has mud → but he said “No”
+So, d must be true → the daughter concludes she has mud
+Similarly, after hearing the daughter say “No”, the son goes through the same reasoning:
+
+If s were false, daughter would have known d must be true → but she said “No”
+So, s must be true → the son concludes he has mud
+3. Final Outcome:
+
+On the second time the question is asked, both children answer “Yes” – they now know they have muddy foreheads.
+
