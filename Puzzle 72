@@ -1,0 +1,49 @@
+Puzzle | 100 Cows And Milk
+
+A milkman has 100 cows numbered from 1 to 100. Every cow gives milk according to its number, i.e i'th cow gives i litres of milk. Milkman has 10 sons, and he wants to divide his cows among his 10 sons so that every son gets equal amount of milk.
+
+The task is to help him know about the division of these cows among the sons.
+
+Solution: 
+
+As we know that the i'th cow gives i litres of milk.
+
+So first, let us count the total litres of milk which is obtained from these cows. This can be solved by using the arithmetic progression sum.
+
+We know that the sum of n numbers starting from 1 is always sum = n*(n+1)/2.
+
+So the total quantity of milk obtained from 100 cows is total milk = 100(100+1)/2 = 5050 litres.
+
+As the problem says that the division of the cows should be done in a manner that every son gets an amount of milk.
+
+So every son should get 5050/10 = 505 litres of milk.
+
+Now our main problem is to divide 1 to 100 numbers in such a way that every son should get 10 cows whose numbers sum up to 505.
+
+Example :
+
+Now, let us suppose you have 10 numbers and you have to divide them among 5 people so that each one gets an equal sum of these numbers.
+
+So these 10 numbers sum up to 55, now each of the 5 people will get 11 as a sum, so it's obvious that every person will get two numbers whose sum is 11. So the division would be like this:
+
+First_person ---> 1, 10
+Second_person ---> 2, 9
+Third_person ---> 3, 8 
+Fourth_person ---> 4, 7 
+Fifth_person ---> 5, 6 so each person will get 11 .
+
+Now coming back to the problem, we have 100 numbers we have to divide this in 10 groups so that each son get 505 litre of milk. So,
+
+First_son ---> 1, 2, 3, 4, 5, 96, 97, 98, 99, 100 
+Second_son ---> 6, 7, 8, 9, 10, 91, 92, 93, 94, 95 
+Third_son ---> 11, 12, 13, 14, 15, 86, 87, 88, 89, 90 
+Fourth_son ---> 16, 17, 18, 19, 20, 81, 82, 83, 84, 85 
+Fifth_son ---> 21, 22, 23, 24, 25, 76, 77, 78, 79, 80 
+Sixth_son ---> 26, 27, 28, 29, 30, 71, 72, 73, 74, 75 
+Seventh_son ---> 31, 32, 33, 34, 35, 66, 67, 68, 69, 70 
+Eighth_son ---> 36, 37, 38, 39, 40, 61, 62, 63, 64, 65 
+Ninth_son ---> 41, 42, 43, 44, 45, 56, 57, 58, 59, 60 
+Tenth_son ---> 46, 47, 48, 49, 50, 51, 52, 53, 54, 55
+
+Each son should get equal amount of milk this way.
+
