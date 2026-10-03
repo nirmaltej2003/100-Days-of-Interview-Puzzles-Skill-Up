@@ -228,6 +228,11 @@ Puzzle 67: Ways to Reach Bottom Right in 6x6
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-09-24%20110335.png)
 
 ----------------------------------------------------------
+Puzzle 72: 100 Cows And Milk
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-10-03%20110101.png)
+
+----------------------------------------------------------
 Puzzle 73: Six Matches
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-24%20215535.png)
