@@ -213,6 +213,11 @@ Puzzle 52: Matchstick
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-09-23%20115643.png)
 
 ----------------------------------------------------------
+Puzzle 53: Mislabeled Jars
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-10-05%20115454.png)
+
+----------------------------------------------------------
 Puzzle 54: Muddy Heads
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-09-25%20104647.png)
