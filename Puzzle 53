@@ -1,0 +1,38 @@
+Puzzle | Mislabeled Jars
+
+There are three jars labelled A, B, and C, and all are incorrectly labelled.
+
+Jar A: “Candies”
+Jar B: “Sweets”
+Jar C: “Candies and Sweets” (mixed)
+You are allowed to pick only one item at a time from any jar, and candies and sweets can only be identified after picking.
+
+What is the minimum number of items you need to pick to correctly label all three jars?
+
+Solution:
+
+Step 1: Start with Jar C (labeled “Candies & Sweets”)
+
+All jars are incorrectly labeled.
+So, Jar C cannot be a mixture.
+It must contain only Candies or only Sweets.
+Pick one item from Jar C.
+Suppose you get a candy → Jar C = Candies only
+
+Step 2: Identify Jar B
+
+Jar B is labeled “Sweets”, but labels are wrong.
+So, Jar B cannot be only sweets.
+It also cannot be candies (because Jar C already has candies).
+Therefore, Jar B must be Candies & Sweets (mixture)
+
+Step 3: Identify Jar A
+
+Only option left is Sweets
+So, Jar A = Sweets
+
+Final Result
+
+Jar A contains Sweets.
+ Jar B contains Candies and Sweets (mixture).
+ Jar C contains Candies.
