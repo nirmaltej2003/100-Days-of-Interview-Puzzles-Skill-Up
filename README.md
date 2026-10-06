@@ -203,6 +203,11 @@ Puzzle 44: Man fell in well
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-03-23%20205113.png)
 
 ----------------------------------------------------------
+Puzzle 45: Find the last ball
+----------------------------------------------------------
+![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-10-06%20154011.png)
+
+----------------------------------------------------------
 Puzzle 48: Six colored cube
 ----------------------------------------------------------
 ![image](https://github.com/nirmaltej2003/100-Days-of-Interview-Puzzles-Skill-Up/blob/main/Screenshot%202026-09-29%20095606.png)
