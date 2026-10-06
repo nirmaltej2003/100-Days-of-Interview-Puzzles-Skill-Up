@@ -1,0 +1,47 @@
+A bag contains 20 Red balls and 16 Blue balls.
+
+You repeatedly perform the following operation:
+
+Remove any two balls from the bag.
+If the two balls are the same color, add one Blue ball to the bag.
+If the two balls are of different colors, add one Red ball to the bag.
+Each operation removes two balls and adds one ball back to the bag, and the process continues until only one ball remains.
+
+What will be the color of the last remaining ball?
+
+Step 1: Check the number of Red balls
+
+Initially:
+
+20 Red balls
+16 Blue balls
+20 is an even number.
+
+Step 2: What happens to Red balls?
+
+When two balls are removed:
+
+Red + Red → Red decreases by 2
+Blue + Blue → Red unchanged
+Red + Blue → Red unchanged
+So the number of Red balls either decreases by 2 or stays the same.
+
+This means the number of Red balls always remains even.
+
+Step 3: The last ball
+
+At the end, only one ball remains.
+
+If it were Red, then the number of Red balls would be 1 (odd).
+But we have already shown that the number of Red balls always remains even.
+
+Since this is not possible, the last ball cannot be Red.
+
+So, the only possibility is that the last remaining ball is Blue.
+
+Core Insight
+
+For this set of replacement rules:
+
+If the initial number of Red balls is odd, the last ball is Red.
+If it is even, the last ball is Blue.
